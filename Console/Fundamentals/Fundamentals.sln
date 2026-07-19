@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.8.12009.203 stable
+VisualStudioVersion = 18.8.12009.203
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentals", "Fundamentals\Fundamentals.csproj", "{A41E66FE-44EF-4E26-8812-6FAADEAB2ECD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm", "Algorithm\Algorithm.csproj", "{8EED56D8-1A8D-4DB8-958F-650E19FD80F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{80620F52-AB74-4B63-A0F2-9795509570FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8EED56D8-1A8D-4DB8-958F-650E19FD80F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EED56D8-1A8D-4DB8-958F-650E19FD80F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EED56D8-1A8D-4DB8-958F-650E19FD80F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80620F52-AB74-4B63-A0F2-9795509570FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80620F52-AB74-4B63-A0F2-9795509570FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80620F52-AB74-4B63-A0F2-9795509570FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80620F52-AB74-4B63-A0F2-9795509570FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
